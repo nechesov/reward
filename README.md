@@ -2,7 +2,7 @@
 
 Global cryptocurrency based on Ethereum designed for purchasing goods in real time
 
-RWT Tokens will be made available in our crowdsale for purchasing. 1 ETH is equivalent to 100 CTR Tokens.
+RWT Tokens will be made available in our crowdsale for purchasing. 1 ETH is equivalent to 100 RWT Tokens.
 
 <h1>How to test</h1>
 
